@@ -19,10 +19,10 @@ KAIA pose estimation and classification using MediaPipe
 ![alt text](https://github.com/msnkimi2013/Pose_Game/blob/main/Images/PPT1/7.JPG?raw=true)
 
 # 修改意见
-因为不能保证每一个用户都使用广角镜头，应该提示用户需要有2米的距离进行游戏
-面部表情 多加几个
-网络安全
-前端重新开发 收广告费
-国内健身app 女性用户在家健身
-mediapipe 人脸 手 姿势 识别 更多游戏变种
-全球语言
+因为不能保证每一个用户都使用广角镜头，应该提示用户需要有2米的距离进行游戏   <br />
+面部表情 多加几个   <br />
+网络安全              <br />
+前端重新开发 收广告费          <br />
+国内健身app 女性用户在家健身             <br />
+mediapipe 人脸 手 姿势 识别 更多游戏变种             <br />
+全球语言                <br />
